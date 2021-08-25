@@ -126,7 +126,7 @@ CUDA: no Nvidia GPU
 
 #### network
 
-![image-20210824102823097](/home/jia/.config/Typora/typora-user-images/image-20210824102823097.png)
+![image-20210824102823097](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824102823097.png)
 
 unfold the network
 
