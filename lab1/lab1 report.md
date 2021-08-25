@@ -130,7 +130,7 @@ CUDA: no Nvidia GPU
 
 unfold the network
 
-<img src="/home/jia/.config/Typora/typora-user-images/image-20210824110109187.png" alt="image-20210824110109187"  />
+<img src="https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824110109187.png" alt="image-20210824110109187"  />
 
 
 
@@ -138,87 +138,87 @@ unfold the network
 
 ##### top ten ranging in total time spent on CPU (averages all function events with the same key)
 
-![image-20210824103430894](/home/jia/.config/Typora/typora-user-images/image-20210824103430894.png)
+![image-20210824103430894](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824103430894.png)
 
 
 
 ##### accuracy
 
-![image-20210824103850261](/home/jia/.config/Typora/typora-user-images/image-20210824103850261.png)
+![image-20210824103850261](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824103850261.png)
 
-![image-20210824103910995](/home/jia/.config/Typora/typora-user-images/image-20210824103910995.png)
+![image-20210824103910995](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824103910995.png)
 
-![image-20210824103947575](/home/jia/.config/Typora/typora-user-images/image-20210824103947575.png)
+![image-20210824103947575](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824103947575.png)
 
-![image-20210824104011601](/home/jia/.config/Typora/typora-user-images/image-20210824104011601.png)
+![image-20210824104011601](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824104011601.png)
 
 another run
 
-![](/home/jia/.config/Typora/typora-user-images/image-20210824104316061.png)
+![](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824104316061.png)
 
 
 
-![image-20210824105236917](/home/jia/.config/Typora/typora-user-images/image-20210824105236917.png)
+![image-20210824105236917](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824105236917.png)
 
 ##### the Accuracy and Loss during training (with smoothing = 0.6)
 
-![image-20210824104416835](/home/jia/.config/Typora/typora-user-images/image-20210824104416835.png)
+![image-20210824104416835](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824104416835.png)
 
 
 
-![image-20210824104437824](/home/jia/.config/Typora/typora-user-images/image-20210824104437824.png)
+![image-20210824104437824](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824104437824.png)
 
 
 
 #### epoch = 14, batch size = 64
 
-![image-20210824105139513](/home/jia/.config/Typora/typora-user-images/image-20210824105139513.png)
+![image-20210824105139513](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824105139513.png)
 
 
 
-![image-20210824110915015](/home/jia/.config/Typora/typora-user-images/image-20210824110915015.png)
+![image-20210824110915015](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824110915015.png)
 
-![image-20210824110933297](/home/jia/.config/Typora/typora-user-images/image-20210824110933297.png)
+![image-20210824110933297](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824110933297.png)
 
-![image-20210824110949426](/home/jia/.config/Typora/typora-user-images/image-20210824110949426.png)
+![image-20210824110949426](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824110949426.png)
 
-![image-20210824111005054](/home/jia/.config/Typora/typora-user-images/image-20210824111005054.png)
+![image-20210824111005054](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824111005054.png)
 
-![image-20210824111019110](/home/jia/.config/Typora/typora-user-images/image-20210824111019110.png)
+![image-20210824111019110](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824111019110.png)
 
-![image-20210824111036994](/home/jia/.config/Typora/typora-user-images/image-20210824111036994.png)
+![image-20210824111036994](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824111036994.png)
 
-![image-20210824111048329](/home/jia/.config/Typora/typora-user-images/image-20210824111048329.png)
+![image-20210824111048329](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824111048329.png)
 
-![image-20210824111100356](/home/jia/.config/Typora/typora-user-images/image-20210824111100356.png)
+![image-20210824111100356](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824111100356.png)
 
-![image-20210824111118378](/home/jia/.config/Typora/typora-user-images/image-20210824111118378.png)
+![image-20210824111118378](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824111118378.png)
 
-![image-20210824111131209](/home/jia/.config/Typora/typora-user-images/image-20210824111131209.png)
+![image-20210824111131209](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824111131209.png)
 
-![image-20210824111144393](/home/jia/.config/Typora/typora-user-images/image-20210824111144393.png)
+![image-20210824111144393](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824111144393.png)
 
 
 
 #### epoch = 20, batch size = 64
 
-![image-20210824112806213](/home/jia/.config/Typora/typora-user-images/image-20210824112806213.png)
+![image-20210824112806213](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824112806213.png)
 
 
 
-![image-20210824121416158](/home/jia/.config/Typora/typora-user-images/image-20210824121416158.png)
+![image-20210824121416158](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824121416158.png)
 
-![image-20210824121433548](/home/jia/.config/Typora/typora-user-images/image-20210824121433548.png)
+![image-20210824121433548](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824121433548.png)
 
-![image-20210824121447902](/home/jia/.config/Typora/typora-user-images/image-20210824121447902.png)
+![image-20210824121447902](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824121447902.png)
 
-![image-20210824121500016](/home/jia/.config/Typora/typora-user-images/image-20210824121500016.png)
+![image-20210824121500016](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824121500016.png)
 
-![image-20210824121200817](/home/jia/.config/Typora/typora-user-images/image-20210824121200817.png)
+![image-20210824121200817](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824121200817.png)
 
 
 
-![image-20210824121226521](/home/jia/.config/Typora/typora-user-images/image-20210824121226521.png)
+![image-20210824121226521](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824121226521.png)
 
 
 
@@ -226,45 +226,45 @@ another run
 
 #### epoch = 20, batch size = 16
 
-![image-20210824135629094](/home/jia/.config/Typora/typora-user-images/image-20210824135629094.png)
+![image-20210824135629094](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824135629094.png)
 
 
 
-![image-20210824143843429](/home/jia/.config/Typora/typora-user-images/image-20210824143843429.png)
+![image-20210824143843429](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824143843429.png)
 
-![image-20210824143902511](/home/jia/.config/Typora/typora-user-images/image-20210824143902511.png)
+![image-20210824143902511](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824143902511.png)
 
-![image-20210824143922753](/home/jia/.config/Typora/typora-user-images/image-20210824143922753.png)
+![image-20210824143922753](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824143922753.png)
 
-![image-20210824144132119](/home/jia/.config/Typora/typora-user-images/image-20210824144132119.png)
-
-
-
-![image-20210824144202563](/home/jia/.config/Typora/typora-user-images/image-20210824144202563.png)
+![image-20210824144132119](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824144132119.png)
 
 
 
-![image-20210824144218509](/home/jia/.config/Typora/typora-user-images/image-20210824144218509.png)
+![image-20210824144202563](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824144202563.png)
+
+
+
+![image-20210824144218509](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824144218509.png)
 
 
 
 #### epoch = 20 batch size = 1 8h
 
-![image-20210824145515431](/home/jia/.config/Typora/typora-user-images/image-20210824145515431.png)
+![image-20210824145515431](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824145515431.png)
 
 
 
-![image-20210824225919639](/home/jia/.config/Typora/typora-user-images/image-20210824225919639.png)
+![image-20210824225919639](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824225919639.png)
 
-![image-20210824232421525](/home/jia/.config/Typora/typora-user-images/image-20210824232421525.png)
-
-
-
-![image-20210824232449615](/home/jia/.config/Typora/typora-user-images/image-20210824232449615.png)
+![image-20210824232421525](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824232421525.png)
 
 
 
-![image-20210824232509687](/home/jia/.config/Typora/typora-user-images/image-20210824232509687.png)
+![image-20210824232449615](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824232449615.png)
+
+
+
+![image-20210824232509687](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210824232509687.png)
 
 #### batch size comparison
 
@@ -277,19 +277,19 @@ another run
 
 graph a
 
-![image-20210825100017631](/home/jia/.config/Typora/typora-user-images/image-20210825100017631.png)
+![image-20210825100017631](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210825100017631.png)
 
 graph b
 
-![image-20210825100122931](/home/jia/.config/Typora/typora-user-images/image-20210825100122931.png)
+![image-20210825100122931](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210825100122931.png)
 
 graph c
 
-![image-20210825100152991](/home/jia/.config/Typora/typora-user-images/image-20210825100152991.png)
+![image-20210825100152991](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210825100152991.png)
 
 graph d
 
-![image-20210825100214128](/home/jia/.config/Typora/typora-user-images/image-20210825100214128.png)
+![image-20210825100214128](https://github.com/saki-37/AI-system-microsoft/blob/main/typora-user-images/image-20210825100214128.png)
 
 #### Findings and Conclusions
 
