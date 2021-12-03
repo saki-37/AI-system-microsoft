@@ -18,7 +18,7 @@
 
 运行profile结果CPU版本好一些，具体运行时间上CUDA版更快
 
-CPU：27.051mx
+CPU：27.051ms
 
 GPU：345.028ms
 
